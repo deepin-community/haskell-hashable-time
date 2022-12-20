@@ -1,0 +1,41 @@
+haskell-hashable-time (0.2.0.2-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:38:41 +0800
+
+haskell-hashable-time (0.2.0.2-2) unstable; urgency=medium
+
+  * Patch for newer hashable.
+
+ -- Clint Adams <clint@debian.org>  Tue, 02 Jun 2020 20:24:10 -0400
+
+haskell-hashable-time (0.2.0.2-1) unstable; urgency=medium
+
+  [ Clint Adams ]
+  * Set Rules-Requires-Root to no.
+
+  [ Ilias Tsitsimpis ]
+  * New upstream release
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sat, 29 Sep 2018 20:53:10 +0300
+
+haskell-hashable-time (0.2.0.1-2) unstable; urgency=medium
+
+  [ Ilias Tsitsimpis ]
+  * Change Priority to optional. Since Debian Policy version 4.0.1,
+    priority extra has been deprecated.
+  * Use the HTTPS form of the copyright-format URL
+  * Modify d/watch and Source field in d/copyright to use HTTPS
+  * Declare compliance with Debian policy 4.1.1
+
+  [ Clint Adams ]
+  * Bump to Standards-Version 4.1.4.
+
+ -- Clint Adams <clint@debian.org>  Mon, 09 Apr 2018 20:04:51 -0400
+
+haskell-hashable-time (0.2.0.1-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Clint Adams <clint@debian.org>  Mon, 10 Jul 2017 07:13:41 -0400
